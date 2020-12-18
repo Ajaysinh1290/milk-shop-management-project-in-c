@@ -1,5 +1,7 @@
 # Milk Shop Management Project in C
-Hello guys, In this project I have made milk shop management project with the help of this you can manage any milk shop data, customers and etc. 
+
+Hello guys, In this project I have made milk shop management project.
+This will help Milk-shop owners to manage customers details & bills.
 
 # Features
 
