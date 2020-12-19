@@ -16,31 +16,24 @@ This will help Milk-shop owners to manage customers details & bills.
 * Automatically calculate Customer's total bill
 * Automatically arrange data by bill number
 
-# Screen Shots
-
-<div class="row">
-       <img src="/screenshots/8-Login Screen.png" width="500" title="Login Screen">
-     <img src="/screenshots/1-Home_page.png" width="500" title="Home-Page">  
-</div>
-<div class="row">
-      <img src="/screenshots/2-Adding New customer.png" width="500" title="Add New Customer">     
-       <img src="/screenshots/9-Adding new bill.png" width="500" title="Add new Bill">      
-     
-</div>
-<div class="row">
-<img src="/screenshots/3-List of customers.png" width="500" title="Customers List">
-      <img src="/screenshots/5-Changing UI.png" width="500" title="Change Background Theme">
-       
-</div>
-
-<div class="row">
-      <img src="/screenshots/6-Shop Owner Profile.png" width="500" title="User Profile">   
-        <img src="/screenshots/7-About.png" width="500" title="About">
-</div>
-
 # Youtube Demo 
 
 [![Watch this video](https://github.com/Ajaysinh1290/milk-shop-management-project-in-c/blob/master/screenshots/4-List%20of%20Customer%20bills.png)](https://youtu.be/KSd5MIQtZ2E)
+
+
+# Screen Shots
+
+
+  <img src="/screenshots/8-Login Screen.png"  title="Login Screen"/>
+  <img src="/screenshots/1-Home_page.png"  title="Home-Page">  
+  <img src="/screenshots/2-Adding New customer.png" title="Add New Customer">     
+  <img src="/screenshots/9-Adding new bill.png" title="Add new Bill">    
+  <img src="/screenshots/3-List of customers.png"  title="Customers List">
+  <img src="/screenshots/5-Changing UI.png" title="Change Background Theme">
+  <img src="/screenshots/6-Shop Owner Profile.png" title="User Profile">   
+  <img src="/screenshots/7-About.png"  title="About">
+
+
 
 
 # Created by
